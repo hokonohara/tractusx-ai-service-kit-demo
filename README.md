@@ -1,7 +1,4 @@
 # AI Service KIT demo for A2A Protocol
 
-<video src="https://www.youtube.com/watch?v=tcpBWjAikxM" ></video>
+https://github.com/user-attachments/assets/6fe26f97-8fb3-49da-a3a1-84d5632c6a1c
 
-  
-[![Watch]()](https://www.youtube.com/watch?v=tcpBWjAikxM)
-[![Watch]()](https://www.youtube.com/watch?v=tcpBWjAikxM)
